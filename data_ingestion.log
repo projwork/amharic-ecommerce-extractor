@@ -1,0 +1,190 @@
+2025-06-22 11:15:47,683 - INFO - Starting Amharic E-commerce Data Ingestion Pipeline
+2025-06-22 11:15:47,683 - ERROR - Telegram API credentials not found!
+2025-06-22 11:15:47,684 - ERROR - Please set TG_API_ID, TG_API_HASH, and phone in your .env file
+2025-06-22 11:18:19,780 - INFO - Starting Amharic E-commerce Data Ingestion Pipeline
+2025-06-22 11:18:19,781 - INFO - Step 1: Starting data ingestion from Telegram channels
+2025-06-22 11:18:20,005 - INFO - Connecting to 149.154.167.51:443/TcpFull...
+2025-06-22 11:18:21,804 - INFO - Connection to 149.154.167.51:443/TcpFull complete!
+2025-06-22 11:18:22,539 - ERROR - Failed to connect to Telegram: bytes or str expected, not <class 'NoneType'>
+2025-06-22 11:18:22,540 - ERROR - Pipeline failed with error: bytes or str expected, not <class 'NoneType'>
+2025-06-22 11:18:39,913 - INFO - Connecting to 149.154.167.51:443/TcpFull...
+2025-06-22 11:18:40,046 - INFO - Connection to 149.154.167.51:443/TcpFull complete!
+2025-06-22 11:18:40,689 - ERROR - Failed to connect to Telegram: bytes or str expected, not <class 'NoneType'>
+2025-06-22 11:20:11,820 - INFO - Starting Amharic E-commerce Data Ingestion Pipeline
+2025-06-22 11:20:11,820 - ERROR - Telegram API credentials not found!
+2025-06-22 11:20:11,820 - ERROR - Please set TG_API_ID, TG_API_HASH, and phone in your .env file
+2025-06-22 11:32:08,586 - INFO - Starting Amharic E-commerce Data Ingestion Pipeline
+2025-06-22 11:32:08,587 - INFO - Step 1: Starting data ingestion from Telegram channels
+2025-06-22 11:32:08,648 - INFO - Connecting to 149.154.167.51:443/TcpFull...
+2025-06-22 11:32:08,774 - INFO - Connection to 149.154.167.51:443/TcpFull complete!
+2025-06-22 11:32:09,421 - ERROR - Failed to connect to Telegram: bytes or str expected, not <class 'NoneType'>
+2025-06-22 11:32:09,423 - ERROR - Pipeline failed with error: bytes or str expected, not <class 'NoneType'>
+2025-06-22 11:32:39,465 - INFO - Starting Amharic E-commerce Data Ingestion Pipeline
+2025-06-22 11:32:39,466 - INFO - Step 1: Starting data ingestion from Telegram channels
+2025-06-22 11:32:39,466 - INFO - Loaded credentials - API ID: 27939343, Phone: +2519122***
+2025-06-22 11:32:39,510 - INFO - Connecting to 149.154.167.51:443/TcpFull...
+2025-06-22 11:32:39,631 - INFO - Connection to 149.154.167.51:443/TcpFull complete!
+2025-06-22 11:32:40,358 - ERROR - Failed to connect to Telegram: bytes or str expected, not <class 'NoneType'>
+2025-06-22 11:32:40,358 - ERROR - Pipeline failed with error: bytes or str expected, not <class 'NoneType'>
+2025-06-22 11:33:04,468 - INFO - Starting Amharic E-commerce Data Ingestion Pipeline
+2025-06-22 11:33:04,469 - INFO - Step 1: Starting data ingestion from Telegram channels
+2025-06-22 11:33:04,470 - INFO - Loaded credentials - API ID: 27939343, Phone: +2519122***
+2025-06-22 11:33:04,526 - INFO - Attempting to connect with API ID: 27939343
+2025-06-22 11:33:04,526 - INFO - Phone number: +251912243149  # Your phone number with country code
+2025-06-22 11:33:04,527 - INFO - API Hash length: 32
+2025-06-22 11:33:04,527 - INFO - Connecting to 149.154.167.51:443/TcpFull...
+2025-06-22 11:33:04,665 - INFO - Connection to 149.154.167.51:443/TcpFull complete!
+2025-06-22 11:33:05,398 - ERROR - Failed to connect to Telegram: bytes or str expected, not <class 'NoneType'>
+2025-06-22 11:33:05,398 - ERROR - Connection details - API ID: 27939343, Phone: +251912243149  # Your phone number with country code, Hash length: 32
+2025-06-22 11:33:05,399 - ERROR - Pipeline failed with error: bytes or str expected, not <class 'NoneType'>
+2025-06-22 11:33:57,094 - INFO - Starting Amharic E-commerce Data Ingestion Pipeline
+2025-06-22 11:33:57,094 - INFO - Step 1: Starting data ingestion from Telegram channels
+2025-06-22 11:33:57,095 - INFO - Loaded credentials - API ID: 27939343, Phone: +2519122***
+2025-06-22 11:33:57,152 - INFO - Attempting to connect with API ID: 27939343
+2025-06-22 11:33:57,152 - INFO - Phone number: +251912243149  # Your phone number with country code
+2025-06-22 11:33:57,152 - INFO - API Hash length: 32
+2025-06-22 11:33:57,153 - INFO - Connecting to 149.154.167.51:443/TcpFull...
+2025-06-22 11:33:57,292 - INFO - Connection to 149.154.167.51:443/TcpFull complete!
+2025-06-22 11:33:58,133 - ERROR - Failed to connect to Telegram: bytes or str expected, not <class 'NoneType'>
+2025-06-22 11:33:58,133 - ERROR - Connection details - API ID: 27939343, Phone: +251912243149  # Your phone number with country code, Hash length: 32
+2025-06-22 11:33:58,134 - ERROR - Pipeline failed with error: bytes or str expected, not <class 'NoneType'>
+2025-06-22 11:34:28,066 - INFO - Starting Amharic E-commerce Data Ingestion Pipeline
+2025-06-22 11:34:28,066 - INFO - Step 1: Starting data ingestion from Telegram channels
+2025-06-22 11:34:28,066 - INFO - Loaded credentials - API ID: 27939343, Phone: +2519122***
+2025-06-22 11:34:28,113 - INFO - Attempting to connect with API ID: 27939343
+2025-06-22 11:34:28,113 - INFO - Phone number: +251912243149
+2025-06-22 11:34:28,113 - INFO - API Hash length: 32
+2025-06-22 11:34:28,114 - INFO - Connecting to 149.154.167.51:443/TcpFull...
+2025-06-22 11:34:28,292 - INFO - Connection to 149.154.167.51:443/TcpFull complete!
+2025-06-22 11:34:29,135 - INFO - Phone migrated to 4
+2025-06-22 11:34:29,261 - INFO - Reconnecting to new data center 4
+2025-06-22 11:34:29,513 - INFO - Disconnecting from 149.154.167.51:443/TcpFull...
+2025-06-22 11:34:29,514 - INFO - Disconnection from 149.154.167.51:443/TcpFull complete!
+2025-06-22 11:34:29,514 - INFO - Connecting to 149.154.167.91:443/TcpFull...
+2025-06-22 11:34:31,278 - INFO - Connection to 149.154.167.91:443/TcpFull complete!
+2025-06-22 11:35:18,678 - INFO - Starting Amharic E-commerce Data Ingestion Pipeline
+2025-06-22 11:35:18,679 - INFO - Step 1: Starting data ingestion from Telegram channels
+2025-06-22 11:35:18,679 - INFO - Loaded credentials - API ID: 27939343, Phone: +2519122***
+2025-06-22 11:35:18,717 - INFO - Attempting to connect with API ID: 27939343
+2025-06-22 11:35:18,718 - INFO - Phone number: +251912243149
+2025-06-22 11:35:18,718 - INFO - API Hash length: 32
+2025-06-22 11:35:18,718 - INFO - Connecting to 149.154.167.91:443/TcpFull...
+2025-06-22 11:35:18,877 - INFO - Connection to 149.154.167.91:443/TcpFull complete!
+2025-06-22 11:37:29,367 - INFO - Successfully connected to Telegram
+2025-06-22 11:37:29,368 - INFO - Scraping channel 1/6: @sinayelj
+2025-06-22 11:37:30,335 - ERROR - Error processing message 16437: 'NoneType' object has no attribute 'get'
+2025-06-22 11:37:30,336 - INFO - Scraped 0 messages from @sinayelj
+2025-06-22 11:37:31,450 - ERROR - Error processing message 16436: 'NoneType' object has no attribute 'get'
+2025-06-22 11:37:31,451 - INFO - Scraped 0 messages from @sinayelj
+2025-06-22 11:37:32,567 - ERROR - Error processing message 16435: 'NoneType' object has no attribute 'get'
+2025-06-22 11:37:32,567 - INFO - Scraped 0 messages from @sinayelj
+2025-06-22 11:37:33,682 - ERROR - Error processing message 16434: 'NoneType' object has no attribute 'get'
+2025-06-22 11:37:33,682 - INFO - Scraped 0 messages from @sinayelj
+2025-06-22 11:37:34,804 - ERROR - Error processing message 16433: 'NoneType' object has no attribute 'get'
+2025-06-22 11:37:34,805 - INFO - Scraped 0 messages from @sinayelj
+2025-06-22 11:37:35,921 - ERROR - Error processing message 16432: 'NoneType' object has no attribute 'get'
+2025-06-22 11:37:35,922 - INFO - Scraped 0 messages from @sinayelj
+2025-06-22 11:37:37,037 - ERROR - Error processing message 16431: 'NoneType' object has no attribute 'get'
+2025-06-22 11:37:37,037 - INFO - Scraped 0 messages from @sinayelj
+2025-06-22 11:37:38,145 - ERROR - Error processing message 16430: 'NoneType' object has no attribute 'get'
+2025-06-22 11:37:38,145 - INFO - Scraped 0 messages from @sinayelj
+2025-06-22 11:37:39,269 - ERROR - Error processing message 16429: 'NoneType' object has no attribute 'get'
+2025-06-22 11:37:39,270 - INFO - Scraped 0 messages from @sinayelj
+2025-06-22 11:37:40,384 - ERROR - Error processing message 16428: 'NoneType' object has no attribute 'get'
+2025-06-22 11:37:40,384 - INFO - Scraped 0 messages from @sinayelj
+2025-06-22 11:37:41,498 - ERROR - Error processing message 16427: 'NoneType' object has no attribute 'get'
+2025-06-22 11:37:41,498 - INFO - Scraped 0 messages from @sinayelj
+2025-06-22 11:37:42,622 - ERROR - Error processing message 16426: 'NoneType' object has no attribute 'get'
+2025-06-22 11:37:42,623 - INFO - Scraped 0 messages from @sinayelj
+2025-06-22 11:37:43,739 - ERROR - Error processing message 16425: 'NoneType' object has no attribute 'get'
+2025-06-22 11:37:43,739 - INFO - Scraped 0 messages from @sinayelj
+2025-06-22 11:37:44,865 - ERROR - Error processing message 16424: 'NoneType' object has no attribute 'get'
+2025-06-22 11:37:44,866 - INFO - Scraped 0 messages from @sinayelj
+2025-06-22 11:37:45,982 - ERROR - Error processing message 16423: 'NoneType' object has no attribute 'get'
+2025-06-22 11:37:45,982 - INFO - Scraped 0 messages from @sinayelj
+2025-06-22 11:37:47,102 - ERROR - Error processing message 16422: 'NoneType' object has no attribute 'get'
+2025-06-22 11:37:47,103 - INFO - Scraped 0 messages from @sinayelj
+2025-06-22 11:37:48,214 - ERROR - Error processing message 16421: 'NoneType' object has no attribute 'get'
+2025-06-22 11:37:48,214 - INFO - Scraped 0 messages from @sinayelj
+2025-06-22 11:37:49,323 - ERROR - Error processing message 16420: 'NoneType' object has no attribute 'get'
+2025-06-22 11:37:49,324 - INFO - Scraped 0 messages from @sinayelj
+2025-06-22 11:37:50,443 - ERROR - Error processing message 16419: 'NoneType' object has no attribute 'get'
+2025-06-22 11:37:50,444 - INFO - Scraped 0 messages from @sinayelj
+2025-06-22 11:37:51,560 - ERROR - Error processing message 16418: 'NoneType' object has no attribute 'get'
+2025-06-22 11:37:51,560 - INFO - Scraped 0 messages from @sinayelj
+2025-06-22 11:37:52,679 - ERROR - Error processing message 16417: 'NoneType' object has no attribute 'get'
+2025-06-22 11:37:52,679 - INFO - Scraped 0 messages from @sinayelj
+2025-06-22 11:37:53,797 - ERROR - Error processing message 16416: 'NoneType' object has no attribute 'get'
+2025-06-22 11:37:53,797 - INFO - Scraped 0 messages from @sinayelj
+2025-06-22 11:37:54,919 - ERROR - Error processing message 16415: 'NoneType' object has no attribute 'get'
+2025-06-22 11:37:54,920 - INFO - Scraped 0 messages from @sinayelj
+2025-06-22 11:37:56,033 - ERROR - Error processing message 16414: 'NoneType' object has no attribute 'get'
+2025-06-22 11:37:56,034 - INFO - Scraped 0 messages from @sinayelj
+2025-06-22 11:37:57,153 - ERROR - Error processing message 16413: 'NoneType' object has no attribute 'get'
+2025-06-22 11:37:57,153 - INFO - Scraped 0 messages from @sinayelj
+2025-06-22 11:37:58,267 - ERROR - Error processing message 16412: 'NoneType' object has no attribute 'get'
+2025-06-22 11:37:58,267 - INFO - Scraped 0 messages from @sinayelj
+2025-06-22 11:37:59,378 - ERROR - Error processing message 16411: 'NoneType' object has no attribute 'get'
+2025-06-22 11:37:59,378 - INFO - Scraped 0 messages from @sinayelj
+2025-06-22 11:38:00,498 - ERROR - Error processing message 16410: 'NoneType' object has no attribute 'get'
+2025-06-22 11:38:00,499 - INFO - Scraped 0 messages from @sinayelj
+2025-06-22 11:38:01,617 - ERROR - Error processing message 16409: 'NoneType' object has no attribute 'get'
+2025-06-22 11:38:01,617 - INFO - Scraped 0 messages from @sinayelj
+2025-06-22 11:38:02,737 - ERROR - Error processing message 16408: 'NoneType' object has no attribute 'get'
+2025-06-22 11:38:02,738 - INFO - Scraped 0 messages from @sinayelj
+2025-06-22 11:38:03,854 - ERROR - Error processing message 16407: 'NoneType' object has no attribute 'get'
+2025-06-22 11:38:03,855 - INFO - Scraped 0 messages from @sinayelj
+2025-06-22 11:38:04,974 - ERROR - Error processing message 16406: 'NoneType' object has no attribute 'get'
+2025-06-22 11:38:04,975 - INFO - Scraped 0 messages from @sinayelj
+2025-06-22 11:38:06,092 - ERROR - Error processing message 16405: 'NoneType' object has no attribute 'get'
+2025-06-22 11:38:06,092 - INFO - Scraped 0 messages from @sinayelj
+2025-06-22 11:38:07,203 - ERROR - Error processing message 16404: 'NoneType' object has no attribute 'get'
+2025-06-22 11:38:07,204 - INFO - Scraped 0 messages from @sinayelj
+2025-06-22 11:38:08,323 - ERROR - Error processing message 16403: 'NoneType' object has no attribute 'get'
+2025-06-22 11:38:08,324 - INFO - Scraped 0 messages from @sinayelj
+2025-06-22 11:38:09,436 - ERROR - Error processing message 16402: 'NoneType' object has no attribute 'get'
+2025-06-22 11:38:09,436 - INFO - Scraped 0 messages from @sinayelj
+2025-06-22 11:38:10,571 - ERROR - Error processing message 16401: 'NoneType' object has no attribute 'get'
+2025-06-22 11:38:10,572 - INFO - Scraped 0 messages from @sinayelj
+2025-06-22 11:38:11,689 - ERROR - Error processing message 16400: 'NoneType' object has no attribute 'get'
+2025-06-22 11:38:11,689 - INFO - Scraped 0 messages from @sinayelj
+2025-06-22 11:38:12,801 - ERROR - Error processing message 16399: 'NoneType' object has no attribute 'get'
+2025-06-22 11:38:12,802 - INFO - Scraped 0 messages from @sinayelj
+2025-06-22 11:38:13,912 - ERROR - Error processing message 16398: 'NoneType' object has no attribute 'get'
+2025-06-22 11:38:13,912 - INFO - Scraped 0 messages from @sinayelj
+2025-06-22 11:38:15,017 - ERROR - Error processing message 16397: 'NoneType' object has no attribute 'get'
+2025-06-22 11:38:15,018 - INFO - Scraped 0 messages from @sinayelj
+2025-06-22 11:38:16,139 - ERROR - Error processing message 16396: 'NoneType' object has no attribute 'get'
+2025-06-22 11:38:16,140 - INFO - Scraped 0 messages from @sinayelj
+2025-06-22 11:38:17,257 - ERROR - Error processing message 16395: 'NoneType' object has no attribute 'get'
+2025-06-22 11:38:17,258 - INFO - Scraped 0 messages from @sinayelj
+2025-06-22 11:38:18,368 - ERROR - Error processing message 16394: 'NoneType' object has no attribute 'get'
+2025-06-22 11:38:18,369 - INFO - Scraped 0 messages from @sinayelj
+2025-06-22 11:38:19,484 - ERROR - Error processing message 16393: 'NoneType' object has no attribute 'get'
+2025-06-22 11:38:19,485 - INFO - Scraped 0 messages from @sinayelj
+2025-06-22 11:38:20,603 - ERROR - Error processing message 16392: 'NoneType' object has no attribute 'get'
+2025-06-22 11:38:20,604 - INFO - Scraped 0 messages from @sinayelj
+2025-06-22 11:38:21,716 - ERROR - Error processing message 16391: 'NoneType' object has no attribute 'get'
+2025-06-22 11:38:21,717 - INFO - Scraped 0 messages from @sinayelj
+2025-06-22 11:38:22,824 - ERROR - Error processing message 16390: 'NoneType' object has no attribute 'get'
+2025-06-22 11:38:22,825 - INFO - Scraped 0 messages from @sinayelj
+2025-06-22 11:38:23,942 - ERROR - Error processing message 16389: 'NoneType' object has no attribute 'get'
+2025-06-22 11:38:23,943 - INFO - Scraped 0 messages from @sinayelj
+2025-06-22 11:38:25,061 - ERROR - Error processing message 16388: 'NoneType' object has no attribute 'get'
+2025-06-22 11:38:25,062 - INFO - Scraped 0 messages from @sinayelj
+2025-06-22 11:38:26,175 - ERROR - Error processing message 16387: 'NoneType' object has no attribute 'get'
+2025-06-22 11:38:26,177 - INFO - Scraped 0 messages from @sinayelj
+2025-06-22 11:38:27,301 - ERROR - Error processing message 16386: 'NoneType' object has no attribute 'get'
+2025-06-22 11:38:27,301 - INFO - Scraped 0 messages from @sinayelj
+2025-06-22 11:38:28,412 - ERROR - Error processing message 16385: 'NoneType' object has no attribute 'get'
+2025-06-22 11:38:28,413 - INFO - Scraped 0 messages from @sinayelj
+2025-06-22 11:38:29,532 - ERROR - Error processing message 16384: 'NoneType' object has no attribute 'get'
+2025-06-22 11:38:29,532 - INFO - Scraped 0 messages from @sinayelj
+2025-06-22 11:38:30,644 - ERROR - Error processing message 16383: 'NoneType' object has no attribute 'get'
+2025-06-22 11:38:30,644 - INFO - Scraped 0 messages from @sinayelj
+2025-06-22 11:38:31,762 - ERROR - Error processing message 16382: 'NoneType' object has no attribute 'get'
+2025-06-22 11:38:31,763 - INFO - Scraped 0 messages from @sinayelj
+2025-06-22 11:38:32,873 - ERROR - Error processing message 16381: 'NoneType' object has no attribute 'get'
+2025-06-22 11:38:32,874 - INFO - Scraped 0 messages from @sinayelj
+2025-06-22 11:38:33,989 - ERROR - Error processing message 16380: 'NoneType' object has no attribute 'get'
+2025-06-22 11:38:33,990 - INFO - Scraped 0 messages from @sinayelj

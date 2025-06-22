@@ -3,6 +3,7 @@
 !/data/*.dvc
 .csv/
 .ipynb_checkpoints/
+.env.*
 
 # Python
 __pycache__/
