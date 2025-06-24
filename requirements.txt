@@ -13,3 +13,10 @@ aiofiles
 openpyxl
 beautifulsoup4
 requests
+# New libraries for Task 3: NER Model Fine-tuning
+transformers>=4.35.0
+torch>=2.0.0
+datasets>=2.14.0
+accelerate>=0.24.0
+seqeval>=1.2.2
+tokenizers>=0.14.0
