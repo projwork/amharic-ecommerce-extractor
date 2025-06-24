@@ -1,0 +1,21 @@
+2025-06-24 16:34:14,809 - INFO - Initialized ModelComparison with 2 models
+2025-06-24 16:34:14,809 - INFO - Starting comprehensive model comparison...
+2025-06-24 16:34:14,809 - INFO - Preparing test data for model comparison...
+2025-06-24 16:34:14,811 - INFO - Prepared test data: 50 sentences, 10 robustness tests
+2025-06-24 16:34:14,811 - INFO - 
+============================================================
+2025-06-24 16:34:14,811 - INFO - Evaluating Model: distilbert-base-multilingual-cased
+2025-06-24 16:34:14,811 - INFO - ============================================================
+2025-06-24 16:34:14,812 - INFO - Training and evaluating model: distilbert-base-multilingual-cased
+2025-06-24 16:47:02,776 - INFO - Initialized ModelComparison with 1 models
+2025-06-24 16:47:02,779 - INFO - Initialized ModelComparison with 1 models
+2025-06-24 16:47:02,784 - INFO - Initialized ModelComparison with 4 models
+2025-06-24 16:52:07,898 - INFO - Initialized ModelComparison with 2 models
+2025-06-24 16:52:07,900 - INFO - Starting comprehensive model comparison...
+2025-06-24 16:52:07,900 - INFO - Preparing test data for model comparison...
+2025-06-24 16:52:07,905 - INFO - Prepared test data: 50 sentences, 10 robustness tests
+2025-06-24 16:52:07,905 - INFO - 
+============================================================
+2025-06-24 16:52:07,905 - INFO - Evaluating Model: distilbert-base-multilingual-cased
+2025-06-24 16:52:07,906 - INFO - ============================================================
+2025-06-24 16:52:07,906 - INFO - Training and evaluating model: distilbert-base-multilingual-cased

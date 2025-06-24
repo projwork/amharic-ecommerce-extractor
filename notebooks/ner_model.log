@@ -1,0 +1,16 @@
+2025-06-24 16:18:05,447 - INFO - Initialized AmharicNERModel with config: NERModelConfig(model_name='xlm-roberta-base', max_length=128, learning_rate=2e-05, num_epochs=3, batch_size=16, weight_decay=0.01, warmup_steps=100, eval_strategy='epoch', save_strategy='epoch', load_best_model_at_end=True, metric_for_best_model='eval_f1', output_dir='C:\\Kifiya\\Week4\\amharic-ecommerce-extractor\\models', logging_dir='C:\\Kifiya\\Week4\\amharic-ecommerce-extractor\\logs')
+2025-06-24 16:18:05,448 - INFO - Loading CoNLL data from: C:\Kifiya\Week4\amharic-ecommerce-extractor\data\processed\amharic_ecommerce_conll_20250622_205939.txt
+2025-06-24 16:18:05,456 - INFO - Loaded 50 sentences from CoNLL data
+2025-06-24 16:18:05,501 - INFO - Initialized AmharicNERModel with config: NERModelConfig(model_name='xlm-roberta-base', max_length=128, learning_rate=2e-05, num_epochs=3, batch_size=16, weight_decay=0.01, warmup_steps=100, eval_strategy='epoch', save_strategy='epoch', load_best_model_at_end=True, metric_for_best_model='eval_f1', output_dir='C:\\Kifiya\\Week4\\amharic-ecommerce-extractor\\models\\amharic_ner_xlm_roberta_20250624_161805', logging_dir='C:\\Kifiya\\Week4\\amharic-ecommerce-extractor\\logs')
+2025-06-24 16:18:05,502 - INFO - Starting complete training pipeline from CoNLL data
+2025-06-24 16:18:05,502 - INFO - Loading CoNLL data from: C:\Kifiya\Week4\amharic-ecommerce-extractor\data\processed\amharic_ecommerce_conll_20250622_205939.txt
+2025-06-24 16:18:05,504 - INFO - Loaded 50 sentences from CoNLL data
+2025-06-24 16:18:05,506 - INFO - Created label mappings for 3 labels: ['B-LOCATION', 'B-PRODUCT', 'O']
+2025-06-24 16:18:05,507 - INFO - Initializing model: xlm-roberta-base
+2025-06-24 16:18:08,933 - INFO - Model and tokenizer initialized successfully
+2025-06-24 16:18:08,934 - INFO - Tokenizing and aligning labels...
+2025-06-24 16:18:08,958 - INFO - Created dataset with 50 examples
+2025-06-24 16:18:08,966 - INFO - Split dataset: 40 train, 10 eval
+2025-06-24 16:18:09,017 - INFO - Trainer setup completed
+2025-06-24 16:18:09,018 - INFO - Starting model training...
+2025-06-24 16:21:24,541 - ERROR - Error during training: [enforce fail at inline_container.cc:659] . unexpected pos 768052544 vs 768052432

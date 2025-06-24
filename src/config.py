@@ -132,6 +132,20 @@ LOGGING_CONFIG = {
 
 # Create logs directory
 (PROJECT_ROOT / "logs").mkdir(exist_ok=True)
+(PROJECT_ROOT / "models").mkdir(exist_ok=True)  # Create models directory
+
+# NER Model Configuration (for Task 3)
+NER_CONFIG = {
+    'available_models': [
+        'xlm-roberta-base',
+        'xlm-roberta-large', 
+        'bert-base-multilingual-cased',
+        'microsoft/mdeberta-v3-base'
+    ],
+    'default_model': 'xlm-roberta-base',
+    'max_sequence_length': 128,
+    'entity_labels': ['O', 'B-PRODUCT', 'I-PRODUCT', 'B-PRICE', 'I-PRICE', 'B-LOCATION', 'I-LOCATION']
+}
 
 # Export paths for easy access
 PATHS = {
@@ -141,7 +155,9 @@ PATHS = {
     "processed_data_dir": PROCESSED_DATA_DIR,
     "media_dir": MEDIA_DIR,
     "notebooks_dir": NOTEBOOKS_DIR,
-    "scripts_dir": SCRIPTS_DIR
+    "scripts_dir": SCRIPTS_DIR,
+    "models_dir": PROJECT_ROOT / "models",
+    "logs_dir": PROJECT_ROOT / "logs"
 }
 
 def get_env_variable(var_name: str, default: str = None) -> str:
