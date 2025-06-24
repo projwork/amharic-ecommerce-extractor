@@ -116,3 +116,41 @@ Trying to resume download...
 2025-06-24 16:14:42,258 - INFO - Training pipeline completed successfully
 2025-06-24 16:14:42,260 - INFO - Making predictions on 4 texts
 2025-06-24 16:14:42,450 - INFO - NER model fine-tuning completed successfully
+2025-06-24 16:34:14,817 - INFO - Initialized AmharicNERModel with config: NERModelConfig(model_name='distilbert-base-multilingual-cased', max_length=128, learning_rate=2e-05, num_epochs=1, batch_size=8, weight_decay=0.01, warmup_steps=100, eval_strategy='epoch', save_strategy='epoch', load_best_model_at_end=True, metric_for_best_model='eval_f1', output_dir='C:\\Kifiya\\Week4\\amharic-ecommerce-extractor\\models\\comparison_distilbert-base-multilingual-cased_20250624_163414', logging_dir='C:\\Kifiya\\Week4\\amharic-ecommerce-extractor\\logs')
+2025-06-24 16:34:14,818 - INFO - Starting complete training pipeline from CoNLL data
+2025-06-24 16:34:14,818 - INFO - Loading CoNLL data from: C:\Kifiya\Week4\amharic-ecommerce-extractor\data\processed\amharic_ecommerce_conll_20250624_162124.txt
+2025-06-24 16:34:14,819 - INFO - Loaded 50 sentences from CoNLL data
+2025-06-24 16:34:14,819 - INFO - Created label mappings for 3 labels: ['B-LOCATION', 'B-PRODUCT', 'O']
+2025-06-24 16:34:14,820 - INFO - Initializing model: distilbert-base-multilingual-cased
+2025-06-24 16:34:22,502 - WARNING - Xet Storage is enabled for this repo, but the 'hf_xet' package is not installed. Falling back to regular HTTP download. For better performance, install the package with: `pip install huggingface_hub[hf_xet]` or `pip install hf_xet`
+2025-06-24 16:46:09,114 - ERROR - Error initializing model: [Errno 28] No space left on device
+2025-06-24 16:46:09,115 - ERROR - Error training model distilbert-base-multilingual-cased: [Errno 28] No space left on device
+2025-06-24 16:46:09,137 - INFO - Model distilbert-base-multilingual-cased - Overall Score: 0.1865
+2025-06-24 16:46:09,137 - INFO - 
+============================================================
+2025-06-24 16:46:09,138 - INFO - Evaluating Model: bert-base-multilingual-cased
+2025-06-24 16:46:09,138 - INFO - ============================================================
+2025-06-24 16:46:09,138 - INFO - Training and evaluating model: bert-base-multilingual-cased
+2025-06-24 16:46:09,140 - INFO - Initialized AmharicNERModel with config: NERModelConfig(model_name='bert-base-multilingual-cased', max_length=128, learning_rate=2e-05, num_epochs=1, batch_size=8, weight_decay=0.01, warmup_steps=100, eval_strategy='epoch', save_strategy='epoch', load_best_model_at_end=True, metric_for_best_model='eval_f1', output_dir='C:\\Kifiya\\Week4\\amharic-ecommerce-extractor\\models\\comparison_bert-base-multilingual-cased_20250624_164609', logging_dir='C:\\Kifiya\\Week4\\amharic-ecommerce-extractor\\logs')
+2025-06-24 16:46:09,141 - INFO - Starting complete training pipeline from CoNLL data
+2025-06-24 16:46:09,142 - INFO - Loading CoNLL data from: C:\Kifiya\Week4\amharic-ecommerce-extractor\data\processed\amharic_ecommerce_conll_20250624_162124.txt
+2025-06-24 16:46:09,143 - INFO - Loaded 50 sentences from CoNLL data
+2025-06-24 16:46:09,143 - INFO - Created label mappings for 3 labels: ['B-LOCATION', 'B-PRODUCT', 'O']
+2025-06-24 16:46:09,144 - INFO - Initializing model: bert-base-multilingual-cased
+2025-06-24 16:46:26,298 - WARNING - Xet Storage is enabled for this repo, but the 'hf_xet' package is not installed. Falling back to regular HTTP download. For better performance, install the package with: `pip install huggingface_hub[hf_xet]` or `pip install hf_xet`
+2025-06-24 16:46:40,296 - ERROR - Error initializing model: [Errno 28] No space left on device
+2025-06-24 16:46:40,297 - ERROR - Error training model bert-base-multilingual-cased: [Errno 28] No space left on device
+2025-06-24 16:46:40,327 - INFO - Model bert-base-multilingual-cased - Overall Score: 0.1830
+2025-06-24 16:46:40,327 - INFO - 
+Best performing model: distilbert-base-multilingual-cased
+2025-06-24 16:46:40,374 - INFO - Results saved to: C:\Kifiya\Week4\amharic-ecommerce-extractor\models\comparison_results
+2025-06-24 16:46:40,375 - INFO -   • Detailed results: model_comparison_results_20250624_164640.json
+2025-06-24 16:46:40,375 - INFO -   • Comparison report: model_comparison_report_20250624_164640.md
+2025-06-24 16:46:40,375 - INFO -   • CSV data: model_comparison_data_20250624_164640.csv
+2025-06-24 16:52:07,908 - INFO - Initialized AmharicNERModel with config: NERModelConfig(model_name='distilbert-base-multilingual-cased', max_length=128, learning_rate=2e-05, num_epochs=1, batch_size=8, weight_decay=0.01, warmup_steps=100, eval_strategy='epoch', save_strategy='epoch', load_best_model_at_end=True, metric_for_best_model='eval_f1', output_dir='C:\\Kifiya\\Week4\\amharic-ecommerce-extractor\\models\\comparison_distilbert-base-multilingual-cased_20250624_165207', logging_dir='C:\\Kifiya\\Week4\\amharic-ecommerce-extractor\\logs')
+2025-06-24 16:52:07,910 - INFO - Starting complete training pipeline from CoNLL data
+2025-06-24 16:52:07,910 - INFO - Loading CoNLL data from: C:\Kifiya\Week4\amharic-ecommerce-extractor\data\processed\amharic_ecommerce_conll_20250624_162124.txt
+2025-06-24 16:52:07,911 - INFO - Loaded 50 sentences from CoNLL data
+2025-06-24 16:52:07,912 - INFO - Created label mappings for 3 labels: ['B-LOCATION', 'B-PRODUCT', 'O']
+2025-06-24 16:52:07,912 - INFO - Initializing model: distilbert-base-multilingual-cased
+2025-06-24 16:52:10,190 - WARNING - Xet Storage is enabled for this repo, but the 'hf_xet' package is not installed. Falling back to regular HTTP download. For better performance, install the package with: `pip install huggingface_hub[hf_xet]` or `pip install hf_xet`
